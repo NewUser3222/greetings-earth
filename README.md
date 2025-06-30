@@ -10,4 +10,7 @@ Link (URL) of the file on the Adobe server: https://new.express.adobe.com/id/urn
 Name of your file: PasswordLogic
 
 Brief description of the file: This Visio PDF file is a simple flowchart that shows how a computer checks if a number is greater than 100. It guides the logic step-by-step—from entering a number, making a decision, and showing the correct message based on the result. It's a basic example of how computers make choices.
+----------------------------------------
+Name of your file: Python
 
+Brief description of the file: Implement logic from a flowchart that checks if a number is greater than 100 and outputs the result
