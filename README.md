@@ -14,3 +14,7 @@ Brief description of the file: This Visio PDF file is a simple flowchart that sh
 Name of your file: Python
 
 Brief description of the file: Implement logic from a flowchart that checks if a number is greater than 100 and outputs the result
+----------------------------------------
+Name of your file: JoshuaParkerFlowerClass
+
+Brief description of the file: The file you just created is a UML Class Diagram, which is used to visually represent the structure of a class in Object-Oriented Programming (OOP)
