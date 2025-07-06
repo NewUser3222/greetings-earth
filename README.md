@@ -18,3 +18,14 @@ Brief description of the file: Implement logic from a flowchart that checks if a
 Name of your file: JoshuaParkerFlowerClass
 
 Brief description of the file: The file you just created is a UML Class Diagram, which is used to visually represent the structure of a class in Object-Oriented Programming (OOP)
+
+## 📝 Project Files
+
+### 1. `Flower.py`
+This is a Python script demonstrating basic object-oriented programming (OOP).  
+It defines a `Flower` class with one attribute (`name`) and two methods (`grow()` and `bloom()`).  
+Three flower objects are created and their methods are called to show how OOP works in Python.
+
+### 2. `PythonOOP.png`
+This image file is a visual aid or reference to support the Flower class code.  
+
