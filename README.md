@@ -58,3 +58,17 @@ Three flower objects are created and their methods are called to demonstrate OOP
 **Description:**  
 An image file serving as a visual aid or reference supporting the `Flower.py` code.
 
+---
+
+## 📝 Network Diagram Project
+
+**File Name:** `NetworkDiagram.vsdx`
+
+**Description:**
+A Visio network diagram illustrating a common wired network topology.
+Includes devices such as computers connected via wired connections to a central switch, with a printer also connected to the switch.
+Demonstrates basic network layout and device interconnection using standard symbols and topology conventions.
+
+---
+
+
