@@ -65,9 +65,7 @@ An image file serving as a visual aid or reference supporting the `Flower.py` co
 **File Name:** `NetworkDiagram.vsdx`
 
 **Description:**
-A Visio network diagram illustrating a common wired network topology.
-Includes devices such as computers connected via wired connections to a central switch, with a printer also connected to the switch.
-Demonstrates basic network layout and device interconnection using standard symbols and topology conventions.
+A Visio diagram showing a common wired network topology with computers and a printer connected to a switch.
 
 ---
 
