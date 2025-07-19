@@ -68,9 +68,6 @@ An image file serving as a visual aid or reference supporting the `Flower.py` co
 A Visio diagram showing a common wired network topology with computers and a printer connected to a switch.
 
 ---
-Got it! Here's your SQL query documentation, now perfectly formatted for your `README.md` GitHub file to match your example style:
-
----
 
 ## 🗃️ SQL Query – OrderDetails Filter & Sort
 
