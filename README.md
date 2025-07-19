@@ -68,5 +68,26 @@ An image file serving as a visual aid or reference supporting the `Flower.py` co
 A Visio diagram showing a common wired network topology with computers and a printer connected to a switch.
 
 ---
+Got it! Here's your SQL query documentation, now perfectly formatted for your `README.md` GitHub file to match your example style:
+
+---
+
+## 🗃️ SQL Query – OrderDetails Filter & Sort
+
+**File Name:** `SQLQuery.png`
+
+**Description:**
+A SQL query used to retrieve data from the `OrderDetails` table.
+This query filters for records where the quantity is greater than 20 and sorts the results by `ProductID`.
+
+📌 **What the query does:**
+
+* **SELECT \***: Returns all columns from the table
+* **FROM OrderDetails**: Specifies the table being queried
+* **WHERE Quantity > 20**: Filters records to include only those where the `Quantity` is greater than 20
+* **ORDER BY ProductID**: Sorts the filtered results in ascending order by `ProductID`
+
+This query demonstrates basic data mining and filtering operations using SQL.
+
 
 
