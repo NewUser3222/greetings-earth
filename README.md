@@ -86,5 +86,19 @@ This query filters for records where the quantity is greater than 20 and sorts t
 
 This query demonstrates basic data mining and filtering operations using SQL.
 
+Sure! Here's a **README.md** section that matches the format you provided and is tailored to your HTML assignment:
+
+---
+
+## 📝 My First HTML Web Page
+
+**File Name:** `MyHTML.png`
+
+**Description:**
+This project showcases a basic HTML web page created using foundational HTML tags. The page includes headings, a paragraph about a selected theme, a hyperlink to a related website, and an additional HTML element to enhance the structure. A screenshot (`MyHTML.png`) displays both the code and its rendered output.
+
+---
+
+Let me know which version of the HTML (Tech Hub, Game Central, Space Zone, etc.) you’re using, and I can customize the theme part of the description if needed! 🌐💾
 
 
