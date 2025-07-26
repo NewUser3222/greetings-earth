@@ -86,8 +86,6 @@ This query filters for records where the quantity is greater than 20 and sorts t
 
 This query demonstrates basic data mining and filtering operations using SQL.
 
-Sure! Here's a **README.md** section that matches the format you provided and is tailored to your HTML assignment:
-
 ---
 
 ## 📝 My First HTML Web Page
